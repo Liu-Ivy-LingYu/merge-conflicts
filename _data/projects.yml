@@ -19,4 +19,4 @@
 - project: Channel encoding and decoding
   role: Designer and Developer
   duration: 2015 &mdash; 2018
-  descrption: Turbo encoding and decoding design and implemented on FPGA, which is used in wireless video communication to accelated video decoding. Publish a paper about rateless coding.
+  description: Turbo encoding and decoding design and implemented on FPGA, which is used in wireless video communication to accelated video decoding. Publish a paper about rateless coding.
