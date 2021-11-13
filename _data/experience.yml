@@ -6,14 +6,8 @@
   duration: Life
   summary: Learn to live. Live to learn.
 
-# Job Title
+# current
 - company: Intel
   position: Software Engineer
   duration: April, 2018 &mdash; 2021
-  summary: Linux driver develop.
-
-# Intern
-- company: GitHub
-  position: Intern - Web Developer - Designer
-  duration:  June, 2017  &mdash; August, 2017
-  summary: Redesigned the services.github.com website without a calendar
+  summary: Linux device driver develop. Network engineer. Virtualization.
