@@ -1,16 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# NIC driver
+- project: NIC driver
+  role: Developer
+  duration: 2021 &mdash; Present
+  #url: "https://github.com/education/classroom"
+  description: Develp NIC driver both in kernel space and user space.
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# BMC
+- project: Baseboard Manage Controller
+  role: Developer
+  duration: 2018 &mdash; 2020
+  #url: "https://github.com/probot/probot"
+  description: BMC is an SOC on server, it uses ARM architecture and runs linux kernel. It controlls power, thermal, storage and other parts on server through SMBus mostly. BMC is independent of CPU, so it can detect, record or even recover CPU, DIMM error. BMC can also communicate with BIOS. 
+
+# FPGA
+- project: Channel encoding and decoding
+  role: Designer and Developer
+  duration: 2015 &mdash; 2018
+  descrption: Turbo encoding and decoding design and implemented on FPGA, which is used in wireless video communication to accelated video decoding. Publish a paper about rateless coding.
